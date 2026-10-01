@@ -1,4 +1,5 @@
 # Lab2Web
+Langkah - langkah Praktikum
 1. Membuat Tabel Data Mahasiswa
 ![alt text](https://github.com/mzabbar573-ui/Lab2Web/blob/main/Screenshot%20hasil%20praktik/Screenshot%20hasil%20praktik%202%20(1).png?raw=true)
 2. Mengembangkan Tabel dengan thead, tbody, dan tfoot
